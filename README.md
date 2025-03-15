@@ -8,7 +8,7 @@ I'm a **Fullstack Developer** with a passion for **Basketball** 🏀 and **Codin
 - 🌱 I’m learning about **GraphQL**, **Docker**, and **Cloud technologies** to improve my skills.
 - 👀 I’m interested in **Fullstack development**, particularly building scalable and performant web applications.
 - 💞️ I’m looking to collaborate on **open-source projects** or anything related to **web development** and **basketball** (maybe even a basketball stats tracker app!).
-- 📫 How to reach me: You can contact me on **[LinkedIn]([https://www.linkedin.com/in/toavina-maria](https://www.linkedin.com/in/toavina-maria-739455268/))** or via **email at maria625toavina@gmail.com**.
+- 📫 How to reach me: You can contact me on **[LinkedIn]([[https://www.linkedin.com/in/toavina-maria](https://www.linkedin.com/in/toavina-maria-739455268)](https://www.linkedin.com/in/toavina-maria-739455268))** or via **email at maria625toavina@gmail.com**.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I can code while listening to basketball games** — multitasking at its finest!
 
